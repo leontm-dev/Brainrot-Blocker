@@ -51,6 +51,12 @@ chrome.tabs.onUpdated.addListener(function (tabId, changeInfo) {
                   console.log("removed shorts section on the navbar");
                 }
               });
+              document
+                .querySelectorAll("ytd-reel-shelf-renderer")
+                .forEach((el) => {
+                  el.remove();
+                  console.log("removed shorts section on the home page");
+                });
             },
           });
           break;
