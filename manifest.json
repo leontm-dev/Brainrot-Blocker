@@ -13,7 +13,6 @@
   "author": {
     "email": "lanneken09@gmail.com"
   },
-  "default_locale": "en",
   "short_name": "Brainrot Blocker",
   "host_permissions": ["<all_urls>"],
   "background": {
