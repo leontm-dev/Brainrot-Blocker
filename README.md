@@ -12,7 +12,7 @@ This extension blocks all brainrot content flying at you. I created this tool to
 
 ## FAQ
 
-#### Will this extension be available in the Web Store?
+### Will this extension be available in the Web Store?
 
 Yes, I think so. Unfortunately I can give no clear comment on when I will add it to the Chrome Web Store.
 
